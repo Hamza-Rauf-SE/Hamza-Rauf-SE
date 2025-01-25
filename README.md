@@ -1,5 +1,27 @@
 # 💫 About Me:
-🏗️ I’m currently working on:<br><br>Fine-tuning LLMs for NLP tasks like sentiment analysis and spam detection.<br>Developing scalable full-stack web applications using React.js, Next.js, and Node.js, Python.<br>🤝 I’m looking to collaborate on:<br><br>Open-source AI/ML projects, especially involving NLP or computer vision.<br>Building innovative full-stack solutions or DevOps workflows.<br>💡 I’m looking for help with:<br><br>Exploring advanced quantization techniques for LLMs.<br>Contributing to impactful open-source projects.<br>🌱 I’m currently learning:<br><br>Advanced AI frameworks and distributed systems for scaling ML pipelines.<br>Exploring new trends in Generative AI and edge computing.<br>💬 Ask me about:<br><br>Building LLM-based chatbots, fine-tuning models, and real-time data processing using Kafka.<br>Full-stack development, performance optimization, and DevOps strategies.<br>⚡ Fun fact:<br>I’ve worked on multilingual spam detection using AI and achieved 99% accuracy, surpassing traditional models!
+🏗️ I’m currently working on:<br><br>
+- Developing scalable full-stack web applications using **React.js**, **Next.js**, **Node.js**, and **Python**.<br>
+- Fine-tuning **LLMs** for NLP tasks like sentiment analysis, spam detection, and chatbot creation.<br><br>
+
+🤝 I’m looking to collaborate on:<br><br>
+- **Open-source full-stack projects**, focusing on innovative solutions using modern frameworks.<br>
+- **AI/ML initiatives**, especially involving NLP, computer vision, or real-time systems.<br><br>
+
+💡 I’m looking for help with:<br><br>
+- Exploring advanced **AI model optimization techniques**, like quantization and fine-tuning.<br>
+- Contributing to impactful **open-source projects** that leverage full-stack or AI technologies.<br><br>
+
+🌱 I’m currently learning:<br><br>
+- Advanced **DevOps tools** for automating workflows and scaling cloud-based applications.<br>
+- Exploring cutting-edge trends in **Generative AI**, **LLMs**, and **edge computing**.<br><br>
+
+💬 Ask me about:<br><br>
+- **Building scalable full-stack solutions**, from design to deployment.<br>
+- **LLM-based chatbots**, performance optimization, and real-time data processing.<br>
+- **DevOps workflows** and CI/CD pipelines.<br><br>
+
+⚡ Fun fact:<br>
+I’ve developed multilingual spam detection systems with AI, achieving **99% accuracy** and outperforming traditional models!
 
 
 ## 🌐 Socials:
